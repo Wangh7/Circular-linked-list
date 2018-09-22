@@ -10,7 +10,7 @@
 #include <stdlib.h>
 
 typedef struct LNode{
-    int data;
+    int data; 
     struct LNode *next;
 }LNode;
 
